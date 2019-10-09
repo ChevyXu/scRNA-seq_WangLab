@@ -1,2 +1,4 @@
-# scRNA-seq_WangLab
-Code repository for scRNA-seq Analysis
+# scRNA-seq analysis code for WangLab
+Single-cell analysis Code repository for WangLab
+
+Paper deposit
